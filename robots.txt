@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://paquragivuji.pages.dev/sitemap.xml
